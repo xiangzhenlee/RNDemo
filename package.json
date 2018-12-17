@@ -1,0 +1,23 @@
+{
+  "name": "rndemo",
+  "version": "1.0.0",
+  "description": "a demo for react native",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "no",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "yushan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-native": "^0.57.8"
+  }
+}
